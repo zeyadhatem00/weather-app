@@ -23,7 +23,7 @@ A responsive weather dashboard built with React and TypeScript. It displays curr
 - **HeroUI** – UI components
 - **Lucide React** – Icons
 - **Cobe** – 3D globe visualization
-- **Sonner** – Toast notifications
+
 
 ## Getting Started
 
