@@ -1,11 +1,9 @@
-import { Toaster } from "sonner";
 import ForcastSection from "./components/Forcast/ForcastSection";
 import GlobalMap from "./components/GlobalMap/GlobalMap";
 
 function App() {
   return (
     <>
-    <Toaster richColors position="top-center" toastOptions={{ duration: 2000 }}/>
       <main
         className={
           "min-h-screen bg-[#dedede]  text-[#17161d] transition-colors  flex items-center py-7 md:px-5 px-2.5  dark:bg-[#292929]  dark:text-[#f7f7f8]"
