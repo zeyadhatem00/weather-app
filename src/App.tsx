@@ -16,7 +16,7 @@ function App() {
         >
           <ForcastSection />
 
-          <div className="mt-8 grid gap-6 ]">
+          <div className="mt-8 grid gap-6 ">
             <GlobalMap />
           </div>
         </section>
