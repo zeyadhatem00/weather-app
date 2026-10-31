@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@import "@heroui/styles";
+input {
+  font-size: 16px;
+}
