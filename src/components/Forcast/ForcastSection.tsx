@@ -136,9 +136,9 @@ export default function ForcastSection() {
           <button
             type="button"
             aria-label="Settings"
-            className=" size-11 shrink-0 cursor-pointer place-items-center rounded-full bg-[#242329] text-[#b9b6c0] transition-opacity hover:opacity-80 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#dbeafa] focus-visible:ring-offset-2 focus-visible:ring-offset-[#101015] sm:grid"
+            className="grid size-11 shrink-0 cursor-pointer place-items-center rounded-full bg-[#242329] text-white transition-opacity hover:opacity-80 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#dbeafa] focus-visible:ring-offset-2 focus-visible:ring-offset-[#101015]"
           >
-            <Settings size={20} aria-hidden="true" />
+            <Settings size={17} aria-hidden="true" />
           </button>
           <Classic
             onClick={() => {
